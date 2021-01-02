@@ -13,6 +13,7 @@ In my mind this would be a great phone app, The ability to tag an entire gallery
 finding typed notes etc
 
 ## Installation
+Set up google cloud vision api account
 
 ```shell
 # clone repo
