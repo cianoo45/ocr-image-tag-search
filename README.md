@@ -14,6 +14,7 @@ finding typed notes etc
 
 ## Installation
 Set up google cloud vision api account
+then
 
 ```shell
 # clone repo
